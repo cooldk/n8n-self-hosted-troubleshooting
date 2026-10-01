@@ -1,0 +1,11 @@
+[{
+  "id": "bigBody0000001",
+  "name": "Repro 413 webhook",
+  "active": false,
+  "nodes": [
+    {"parameters": {"httpMethod": "POST", "path": "big-body", "responseMode": "onReceived", "options": {}},
+     "id": "a1b2c3d4-0000-4000-8000-000000000001", "name": "Webhook", "type": "n8n-nodes-base.webhook", "typeVersion": 2, "position": [0, 0], "webhookId": "0f0e0d0c-0000-4000-8000-000000000001"}
+  ],
+  "connections": {},
+  "settings": {"executionOrder": "v1"}
+}]
